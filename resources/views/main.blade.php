@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Page</title>
+    <title>Branch Deneme Sayfası</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -30,8 +30,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome</h1>
-        <p>This is a simple page built with Laravel Blade.</p>
+        <h1>Branch</h1>
+        <p>This is a branch test page.</p>
     </div>
 </body>
 </html>
